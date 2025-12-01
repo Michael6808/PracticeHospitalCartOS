@@ -1,0 +1,6 @@
+streamlit
+pyserial
+pandas
+openpyxl
+pywebview
+streamlit-autorefresh
